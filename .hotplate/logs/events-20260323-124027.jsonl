@@ -1,0 +1,7 @@
+{"ts":"2026-03-23T12:40:27.568Z","session":"20260323-124027","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"d:\\coding\\readme","https":false,"live_reload":true}}
+{"ts":"2026-03-23T12:40:28.692Z","session":"20260323-124027","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-03-23T12:40:29.219Z","session":"20260323-124027","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36","viewport":[1324,727]}}
+{"ts":"2026-03-23T12:40:29.221Z","session":"20260323-124027","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":0}}
+{"ts":"2026-03-23T12:40:34.771Z","session":"20260323-124027","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-03-23T12:40:34.779Z","session":"20260323-124027","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-03-23T12:40:35.122Z","session":"20260323-124027","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36","viewport":[1324,727]}}
