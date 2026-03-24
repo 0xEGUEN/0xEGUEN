@@ -28,5 +28,5 @@ const adwa = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xEGUEN&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEGUEN&layout=compact&theme=github_dark&hide_border=true" />
-  <img src="https://wakatime.com/badge/user/0xEGUEN.svg" alt="wakatime" />
+  <img src="https://wakatime.com/share/@0xEGUEN/languages.svg" alt="wakatime" />
 </div>
