@@ -21,12 +21,12 @@ const adwa = {
   tools: ["React", "Node.js", "Figma", "TailwindCSS"],
   currently: "building something cool",
 }
-```
+``` 
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xEGUEN&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEGUEN&layout=compact&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xEGUEN&theme=github_dark&hide_border=true&layout=compact" />
+  <img src="https://wakatime.com/badge/user/0xEGUEN.svg" alt="wakatime" />
 </div>
