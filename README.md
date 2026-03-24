@@ -36,7 +36,7 @@ const adwa = {
 
 <div align="center">
   <a href="https://wakatime.com/@0xEGUEN">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xEGUEN&layout=compact&theme=tokyonight" alt="wakatime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xEGUEN&layout=compact&theme=tokyonight&v=1" alt="wakatime stats" />
   </a>
 </div>
 
