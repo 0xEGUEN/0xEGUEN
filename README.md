@@ -25,8 +25,15 @@ const adwa = {
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xEGUEN&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEGUEN&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
   <img src="https://wakatime.com/badge/user/e03d6994-3716-4971-9db7-3049bac842a6.svg" alt="wakatime" />
 </div>
