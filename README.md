@@ -36,6 +36,6 @@ const adwa = {
 
 <div align="center">
   <a href="https://wakatime.com/@f52e4804-96f9-42c9-a5ea-5a278d6afcd1">
-    <img src="https://wakatime.com/badge/user/f52e4804-96f9-42c9-a5ea-5a278d6afcd1.svg" alt="wakatime" />
+    <img src="https://wakatime.com/badge/user/f52e4804-96f9-42c9-a5ea-5a278d6afcd1.svg?style=flat" alt="wakatime" />
   </a>
 </div>
