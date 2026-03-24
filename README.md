@@ -35,7 +35,7 @@ const adwa = {
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-  <a href="https://wakatime.com/@0xEGUEN">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0xEGUEN&layout=compact&theme=tokyonight" alt="wakatime" />
+  <a href="https://wakatime.com/@f52e4804-96f9-42c9-a5ea-5a278d6afcd1">
+    <img src="https://wakatime.com/badge/user/f52e4804-96f9-42c9-a5ea-5a278d6afcd1.svg" alt="wakatime" />
   </a>
 </div>
