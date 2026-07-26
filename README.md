@@ -33,7 +33,7 @@
 
 ## About Me
 
-Saya membangun web dari ujung ke ujung — dari layout dan interaksi di frontend sampai API dan data di belakangnya — lalu menghabiskan sisa waktu ngulik kernel Android dan bikin bot Discord karena penasaran.
+Saya membangun web dari ujung ke ujung dari layout dan interaksi di frontend sampai API dan data di belakangnya lalu menghabiskan sisa waktu ngulik kernel Android dan bikin bot Discord karena penasaran.
 
 ```ts
 const adwa = {
