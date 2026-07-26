@@ -147,6 +147,14 @@ const adwa = {
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEGUEN/0xEGUEN/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xEGUEN/0xEGUEN/output/snake.svg" />
+    <img width="92%" src="https://raw.githubusercontent.com/0xEGUEN/0xEGUEN/output/snake.svg" alt="A snake eating my GitHub contribution graph" />
+  </picture>
+</div>
+
+<div align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xEGUEN&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" />
 </div>
 
